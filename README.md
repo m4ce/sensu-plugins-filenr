@@ -31,5 +31,5 @@ Usage: metrics-filenr.rb (options)
 
 
 ## Author
+
 Matteo Cerutti - <matteo.cerutti@hotmail.co.uk>
-Bekir Dogan - <bekirdo@gmail.com>
